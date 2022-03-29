@@ -4,5 +4,4 @@ You can revist by entering the name of list in the url
 <br>
 <h1> LiveSite</h1>
 <br>
-<a href="To Do List (gentle-brook-48508.herokuapp.com)" />
-
+https://gentle-brook-48508.herokuapp.com/
